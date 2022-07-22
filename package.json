@@ -1,18 +1,18 @@
 {
   "name": "react-native-maps-alternatives-directions",
   "version": "1.8.0",
-  "description": "Directions Component for react-native-maps",
+  "description": "Directions Component for react-native-maps with alternative routes",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
     "lint:watch": "esw --watch"
   },
   "author": {
-    "name": "Bramus!",
-    "email": "bramus@bram.us",
-    "url": "https://www.bram.us/"
+    "name": "ElieChaaban!",
+    "email": "info@eliechaaban.com",
+    "url": "https://www.eliechaaban.com/"
   },
-  "repository": "https://github.com/bramus/react-native-maps-alternatives-directions",
+  "repository": "https://github.com/elie-chaaban/react-native-maps-alternatives-directions",
   "keywords": [
     "react-native",
     "react-native-component",
@@ -24,9 +24,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bramus/react-native-maps-alternatives-directions/issues"
+    "url": "https://github.com/elie-chaaban/react-native-maps-alternatives-directions/issues"
   },
-  "homepage": "https://github.com/bramus/react-native-maps-alternatives-directions",
+  "homepage": "https://github.com/elie-chaaban/react-native-maps-alternatives-directions",
   "peerDependencies": {
     "react": "*",
     "react-native": "*",

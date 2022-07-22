@@ -2,8 +2,8 @@
 
 [![npm Version](https://img.shields.io/npm/v/react-native-maps-alternatives-directions.svg?style=flat)](https://www.npmjs.com/package/react-native-maps-alternatives-directions)
 [![npm Downloads](https://img.shields.io/npm/dm/react-native-maps-alternatives-directions.svg)](https://www.npmtrends.com/react-native-maps-alternatives-directions)
-[![Contributors](https://img.shields.io/github/contributors/bramus/react-native-maps-alternatives-directions.svg)](https://github.com/bramus/react-native-maps-alternatives-directions/graphs/contributors)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/bramus/react-native-maps-alternatives-directions.svg)](https://github.com/bramus/react-native-maps-alternatives-directions)
+[![Contributors](https://img.shields.io/github/contributors/eliechaaban/react-native-maps-alternatives-directions.svg)](https://github.com/elie-chaaban/react-native-maps-alternatives-directions/graphs/contributors)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/eliechaaban/react-native-maps-alternatives-directions.svg)](https://github.com/elie-chaaban/react-native-maps-alternatives-directions)
 [![License](https://img.shields.io/npm/l/react-native-maps-alternatives-directions.svg)](LICENSE.md)
 
 Directions component for [`react-native-maps`](https://github.com/airbnb/react-native-maps/) – Draw a route between two coordinates, powered by the Google Maps Directions API
@@ -231,7 +231,7 @@ export default Example;
 
 ## Example App
 
-An example app can be found in a separate repo, located at [https://github.com/bramus/react-native-maps-alternatives-directions-example](https://github.com/bramus/react-native-maps-alternatives-directions-example).
+An example app can be found in a separate repo, located at [https://github.com/elie-chaaban/react-native-maps-alternatives-directions-example](https://github.com/elie-chaaban/react-native-maps-alternatives-directions-example).
 
 ## Changelog
 
@@ -239,10 +239,8 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 
 ## Credits
 
-- Bram(us) Van Damme <em>([https://www.bram.us/](https://www.bram.us/))</em>
+- Elie Chaaban <em>([https://www.eliechaaban.com/](https://www.eliechaaban.com/))</em>
 - [All Contributors](../../contributors)
-
-This code is inspired upon the article [React Native Maps with Google Directions Api](https://medium.com/@ali_oguzhan/react-native-maps-with-google-directions-api-bc716ed7a366) by [Ali Oğuzhan Yıldız](https://github.com/alioguzhan).
 
 ## License
 

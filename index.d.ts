@@ -1,6 +1,6 @@
 declare module "react-native-maps-alternatives-directions" {
   // Type definitions for react-native-maps-alternatives-directions 1.6
-  // Project: https://github.com/bramus/react-native-maps-alternatives-directions
+  // Project: https://github.com/elie-chaaban/react-native-maps-alternatives-directions
   // Definitions by: Ali Oguzhan Yildiz <https://github.com/alioguzhan>
   // Definitions by: Chris Shaffer (methodbox)<https://github.com/methodbox>
   // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
