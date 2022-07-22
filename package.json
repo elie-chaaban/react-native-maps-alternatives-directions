@@ -1,6 +1,6 @@
 {
   "name": "react-native-maps-alternatives-directions",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "description": "Directions Component for react-native-maps with alternative routes",
   "main": "index.js",
   "scripts": {
