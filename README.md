@@ -1,5 +1,11 @@
 # `react-native-maps-alternatives-directions`
 
+[![npm Version](https://img.shields.io/npm/v/react-native-maps-alternatives-directions.svg?style=flat)](https://www.npmjs.com/package/react-native-maps-alternatives-directions)
+[![npm Downloads](https://img.shields.io/npm/dm/react-native-maps-alternatives-directions.svg)](https://www.npmtrends.com/react-native-maps-alternatives-directions)
+[![Contributors](https://img.shields.io/github/contributors/eliechaaban/react-native-maps-alternatives-directions.svg)](https://github.com/elie-chaaban/react-native-maps-alternatives-directions/graphs/contributors)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/eliechaaban/react-native-maps-alternatives-directions.svg)](https://github.com/elie-chaaban/react-native-maps-alternatives-directions)
+[![License](https://img.shields.io/npm/l/react-native-maps-alternatives-directions.svg)](LICENSE.md)
+
 Directions component for [`react-native-maps`](https://github.com/airbnb/react-native-maps/) – Draw a route between two coordinates, powered by the Google Maps Directions API
 
 ![react-native-maps-alternatives-directions](https://user-images.githubusercontent.com/213073/33188062-efc86e24-d096-11e7-87eb-6925291bc809.png)
